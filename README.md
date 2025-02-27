@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/AnyaReese">
-    <img width="400" align="top" src="https://github.com/AnyaReese/AnyaReese/blob/main/metrics.left.svg" />
+    <img width="400" align="top" src="https://github.com/AnyaReese/AnyaReese/blob/main/metrics.left.svg?t=1" />
   </a>
   &emsp;
   <a href="https://github.com/AnyaReese">
-    <img width="400" align="top" src="https://github.com/AnyaReese/AnyaReese/blob/main/metrics.right.svg" />
+    <img width="400" align="top" src="https://github.com/AnyaReese/AnyaReese/blob/main/metrics.right.svg?t=1" />
   </a>
 </p>
