@@ -35,6 +35,10 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: "gotta learn"
           
+          # Followup 插件完整配置
+          plugin_followup_sections: repositories, user  # 显示仓库和用户的统计
+          plugin_followup_indepth: yes  # 启用深度分析
+          
           config_order: followup, languages, starlists
 
   metrics-right:
