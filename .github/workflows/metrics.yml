@@ -53,7 +53,7 @@ jobs:
           # Options
           user: AnyaReese
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: repositories
           config_timezone: Asia/Shanghai
           
           # Plugins
