@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: stalomeow/metrics@projects-v2
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.left.svg
@@ -37,7 +37,7 @@ jobs:
           
           # Followup 插件完整配置
           plugin_followup_sections: user
-          plugin_followup_indepth: yes  # 启用深度分析
+          plugin_followup_indepth: no
           
           config_order: followup, languages, starlists
 
@@ -45,7 +45,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: right
-        uses: stalomeow/metrics@projects-v2
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
