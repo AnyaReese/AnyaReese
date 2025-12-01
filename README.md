@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     <a href="https://anyareese.github.io/">me</a> ∙
-    <a href="https://github.com/AnyaReese/iGEM2025-WP2">project</a> ∙
-    <a href="https://anyareese.github.io/iGEM2025-WP2/">wiki</a>
+    <a href="https://gitlab.igem.org/2025/zju-china">project</a> ∙
+    <a href="https://2025.igem.wiki/zju-china/">wiki</a>
   </samp>
 </p>
 
